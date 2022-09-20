@@ -20,11 +20,15 @@ $ npm install
 ```
 -Create Database
 ```bash
-$ yarn migrate dev
+$ npx prisma migrate dev
+```
+-View the Database
+```bash
+$ yarn prisma studio
 ```
 Or
 ```bash
-$ npx migrate dev
+$ npm prisma studio
 ```
 -Start the Project
 ```bash
