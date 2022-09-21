@@ -8,7 +8,7 @@ The mobile project is in this other repository: https://github.com/julianofrodri
 To try it is very simple:<br>
 -Clone the repository
 ```bash
-$ git clone https://github.com/julianofrodrigues/plant-manager.git
+$ git clone https://github.com/julianofrodrigues/e-Sport-Back-End
 ```
 -Download the libraries
 ```bash
