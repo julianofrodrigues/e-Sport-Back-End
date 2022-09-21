@@ -32,11 +32,11 @@ $ npm prisma studio
 ```
 -Start the Project
 ```bash
-$ yarn start
+$ yarn dev
 ```
 Or
 ```bash
-$ npm start
+$ npm dev
 ```
 Ready, now just access the routes via insomnia, postman or any other of your choice. 😁
 ## ✔️ Techniques and technologies used
